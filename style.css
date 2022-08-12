@@ -14,3 +14,11 @@ body{
 section{
     padding-top: 5rem;
 }
+
+
+.tbl-link{
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    text-decoration: none;
+}
